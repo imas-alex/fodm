@@ -12,6 +12,8 @@ To run:
 + Run the command **java -jar entigrator.jar**
 
 Prerequisite: **JRE 17** or later.
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
